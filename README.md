@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/928e6869-c807-4fae-9168-9e556e67bf00/deploy-status)](https://app.netlify.com/sites/ferraradomicilio/deploys)
 
-> If you want to make the same proj for your city, the only thing I ask is to fork the [main repo](https://github.com/tomma5o/ferraraDomicilio) to make it yours.
+> If you want to make the same proj for your city, the only thing I ask is to fork the [main repo](https://github.com/drinky78/ravenna-domicilio) to make it yours.
 > Thanks!
 
 ## How to
